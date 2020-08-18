@@ -1,21 +1,24 @@
-#
+# Perdido analyse Morphosyntaxique
+
+## Présentation
+
 Ce dépôt contient les différents du modules du prétraitement :
 
 
- - Détection de langue
- - Tokenizer Talismane
- - Tokenizer Tree Tagger
- - Lemmatizer / Pos Tagger Talismane
- - Lemmatizer / Pos Tagger Tree Tagger
- - Et un client pour faciliter les requêtes (AnalyserSyntaxique)
+* Détection de langue
+* Tokenizer Talismane
+* Tokenizer Tree Tagger
+* Lemmatizer / Pos Tagger Talismane
+* Lemmatizer / Pos Tagger Tree Tagger
+* Et un client pour faciliter les requêtes (AnalyserSyntaxique)
 
 
 Chaque dossier comporte :
- - l'application JAVA
- - un dossier complet pour créer une image Docker
- - un readme du détail d'utilisation
+* l'application JAVA
+* un dossier complet pour créer une image Docker
+* un readme du détail d'utilisation
 
-#
+## Structure
 
 Le dossier /Talismane_lemmepos_client et /Talismane_lemmepos_serveur est une ébauche non fonctionnelle d'un module de _lemmatisation_ et _postagging_ de Talismane en mode Client/Serveur. 
 
