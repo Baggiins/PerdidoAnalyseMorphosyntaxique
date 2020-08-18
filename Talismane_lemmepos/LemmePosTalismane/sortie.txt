@@ -1,0 +1,57 @@
+1	My	my	PRP$	PRP$	n=singular|p=1	
+2	family	family	NN	NN	n=singular	
+3	is	be	VBZ	VBZ	n=singular|t=ind|p=3	
+4	a	a	DT	DT	n=singular	
+5	rather	rather	RB	RB		
+6	small	small	JJ	JJ		
+7	one	one	CD	CD		
+8	,	,	P	P		
+9	with	with	IN	IN		
+10	only	only	RB	RB		
+11	three	three	CD	CD		
+12	people	people	NNS	NNS	n=plural	
+13	,	,	P	P		
+14	my	my	PRP$	PRP$	n=singular|p=1	
+15	father	father	NN	NN	n=singular	
+16	,	,	P	P		
+17	my	my	PRP$	PRP$	n=singular|p=1	
+18	mother	mother	NN	NN	n=singular	
+19	and	and	CC	CC		
+20	me	me	PRP	PRP	n=singular|p=1	
+21	.	.	P	P		
+22	My	my	PRP$	PRP$	n=singular|p=1	
+23	father	father	NN	NN	n=singular	
+24	is	be	VBZ	VBZ	n=singular|t=ind|p=3	
+25	a	a	DT	DT	n=singular	
+26	doctor	doctor	NN	NN	n=singular	
+27	.	.	P	P		
+28	My	my	PRP$	PRP$	n=singular|p=1	
+29	mother	mother	NN	NN	n=singular	
+30	is	be	VBZ	VBZ	n=singular|t=ind|p=3	
+31	a	a	DT	DT	n=singular	
+32	middle-school	_	NN	NN		
+33	teacher	teacher	NN	NN	n=singular	
+34	.	.	P	P		
+35	I	I	PRP	PRP	n=singular|p=1	
+36	am	be	VBP	VBP	n=singular|t=ind|p=1	
+37	still	still	RB	RB		
+38	a	a	DT	DT	n=singular	
+39	student	student	NN	NN	n=singular	
+40	.	.	P	P		
+41	My	my	PRP$	PRP$	n=singular|p=1	
+42	mother	mother	NN	NN	n=singular	
+43	is	be	VBZ	VBZ	n=singular|t=ind|p=3	
+44	very	very	RB	RB		
+45	gentle	gentle	JJ	JJ		
+46	and	and	CC	CC		
+47	soft	soft	JJ	JJ		
+48	while	while	IN	IN		
+49	my	my	PRP$	PRP$	n=singular|p=1	
+50	father	father	NN	NN	n=singular	
+51	is	be	VBZ	VBZ	n=singular|t=ind|p=3	
+52	a	a	DT	DT	n=singular	
+53	little	little	JJ	JJ		
+54	bit	bit	NN	NN	n=singular	
+55	hot-tempered	_	JJ	JJ		
+56	.	.	P	P		
+

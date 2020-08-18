@@ -1,0 +1,10 @@
+NOM	randonnée
+VER:pper	découvrir
+PRP	de
+DET:ART	un
+NOM	site
+ADV	d'abord
+PUN	,
+DET:ART	le
+NAM	<unknown>
+PUN	...

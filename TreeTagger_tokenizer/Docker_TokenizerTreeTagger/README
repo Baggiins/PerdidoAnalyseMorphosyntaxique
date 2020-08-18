@@ -1,0 +1,19 @@
+image docker : dpham1/perdido:tokenizer
+url pattern : 
+ip_machine:8080/tokenizer
+
+header : text/xml
+
+
+body content : 
+
+<request>
+	<id>1</id>
+	<name>exemple</name>
+	<lang>fr</lang>
+	<corpText>Randonnée découverte d'un site d'abord, le Sanctuaire de Notre-Dame de-Piétat, édifié en 1661 par les habitants de la communauté agricole de Pardies. La région est riche d'histoire ! Ensuite, elle nous offre une vue splendide sur la vallée de Nay au Sud-Est de Pau, et encore un joli panorama de la chaîne des Pyrénées depuis la table d'orientation du sanctuaire. Enfin, on peut "s'amuser" à découvrir les fontaines et autres sources qui se cachent dans les bois et collines du site....</corpText>
+</request>
+
+
+
+

@@ -1,0 +1,8 @@
+1	Talismane	_	NPP	NPP		
+2	est	être	V	V	n=s|t=P|p=3	
+3	adapté	adapter	VPP	VPP	n=s|g=m|t=K	
+4	pour	pour	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	français	français	NC	NC	g=m	
+7	.	.	PONCT	PONCT		
+

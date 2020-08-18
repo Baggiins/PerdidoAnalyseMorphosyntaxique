@@ -1,0 +1,8 @@
+1	Talismane
+2	est
+3	adapté
+4	pour
+5	le
+6	français
+7	.
+

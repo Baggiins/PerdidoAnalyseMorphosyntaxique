@@ -1,0 +1,16 @@
+1	Les	les	DET	DET	n=p	
+2	poules	poule	NC	NC	n=p|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	couvent	couvent	NC	NC	n=s|g=m	
+5	couvent	couvent	NC	NC	n=s|g=m	
+6	.	.	PONCT	PONCT		
+7	Et	et	CC	CC		
+8	jérémi	_	NPP	NPP		
+9	a	avoir	V	V	n=s|t=P|p=3	
+10	peur	peur	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	Kess	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+14	Je	je	CLS	CLS	n=s|p=1	
+15	jubile	jubiler	VS	VS	n=s|t=P,S|p=1,3	
+
